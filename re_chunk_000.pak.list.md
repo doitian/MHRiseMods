@@ -1,0 +1,1 @@
+1. [MHR Sunbreak - Monster Weakness Icons](https://www.nexusmods.com/monsterhunterrise/mods/1037)
