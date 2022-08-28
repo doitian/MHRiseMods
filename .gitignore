@@ -1,0 +1,14 @@
+/D3D12
+/_storage_
+/pdlc
+/ScreenShots
+/Tool
+/config.ini
+/il2cpp_dump.json
+*.pak
+*_log.txt
+/*.dll
+/*.exe
+/*.hpp
+/*.vdf
+*.cache2
